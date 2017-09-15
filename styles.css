@@ -1,0 +1,68 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-image: url("http://cdn.wallpapersafari.com/59/88/u9Vv5y.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    margin:auto 150px auto 150px;
+    padding: 50px 50px 50px 200px;
+    text-align: center;
+    color: #B03893
+}
+
+#top{
+    color:#5DD7CF;
+    text-align: center;
+    font-size: 24
+     
+
+}
+
+h2{
+    color:#5DD7CF;
+    align-self: c
+    enter;
+    font-size: 24
+    
+}
+
+h3{
+    color:rgb(184, 148, 234);
+    align-self: center;
+    font-size: 18
+}
+
+ol{
+    padding: 0px 120px 0px 120px;
+    align-self:left;
+}
+
+.polaroid {
+  position: relative;
+  width: 600px;
+}
+ 
+.polaroid img {
+  height: 450px;
+  width:450px;
+  
+}
+ 
+.polaroid p {
+  position: below;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+  font: 400 20px cursive;
+  color: #5DD7CF;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid white;
+    
+
+}
